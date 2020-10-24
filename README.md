@@ -2,8 +2,14 @@
 
 [31 days](https://focused-leakey-b37c66.netlify.app/)
 
-## 첫번째
+### 첫번째
 
-### 글자를 랜덤으로 통과하는 선 만들기
+##### 글자를 랜덤으로 통과하는 선 만들기
 
-[line through](https://focused-leakey-b37c66.netlify.app/day1%20line_through/index.html)
+[line through](https://focused-leakey-b37c66.netlify.app/day1/index.html)
+
+### 두번째
+
+##### 개와 고양이 사진 보여주기 api이용 fetch
+
+[dog and cat](https://focused-leakey-b37c66.netlify.app/day2/index.html)
