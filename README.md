@@ -5,3 +5,5 @@
 ## 첫번째
 
 ### 글자를 랜덤으로 통과하는 선 만들기
+
+[line through](https://focused-leakey-b37c66.netlify.app/day1%20line_through/index.html)
