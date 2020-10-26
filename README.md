@@ -11,3 +11,9 @@
 ##### 개와 고양이 사진 보여주기 api이용 fetch
 
 [dog and cat](https://focused-leakey-b37c66.netlify.app/day2/index.html)
+
+### 세번째
+
+##### 눈 내리기
+
+[snow effect](https://focused-leakey-b37c66.netlify.app/day3/index.html)
