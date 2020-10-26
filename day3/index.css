@@ -1,0 +1,30 @@
+body {
+  overflow: hidden;
+  background-color: #323975;
+}
+
+.fa-snowflake {
+  animation: fall 15s linear forwards;
+  color: #fff;
+  position: absolute;
+  top: -20px;
+}
+
+@keyframes fall {
+  to {
+    transform: translateY(105vh);
+  }
+}
+
+.word {
+  font-size: 10vw;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 100%;
+  transform: translate(-50%, -50%);
+  margin: auto;
+  z-index: 1;
+  text-align: center;
+  color: salmon;
+}
