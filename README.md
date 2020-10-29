@@ -22,4 +22,4 @@
 
 ##### 포켓몬도감
 
-[snow effect](https://focused-leakey-b37c66.netlify.app/day4/index.html)
+[pokemon](https://focused-leakey-b37c66.netlify.app/day4/index.html)
